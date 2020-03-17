@@ -1,0 +1,1 @@
+Book là chuỗi hợp lệ, có 5 câu. Restaurant là chuỗi không hợp lệ.
